@@ -1,0 +1,10 @@
+input{
+  width: 30%;
+  height: 60%;
+  background: #D0C7F2;
+  box-shadow: inset -1px 1px 0px #5B5B5B,
+   inset 1px -1px 0px #5B5B5B,
+   inset -1px -1px 0px #5B5B5B,
+   inset 1px 1px 0px #5B5B5B;
+  border-radius: 7px;
+}
